@@ -1,0 +1,4 @@
+Category,Trust_Gap_Verdict,Reasons
+Furniture,High,Moderate margin volatility (std=0.345) — some fluctuation. | Large sample (2119 orders) — statistically reliable.
+Office Supplies,Medium,High margin volatility (std=0.548) — profit swings significantly. | Large sample (6022 orders) — statistically reliable.
+Technology,High,"Low margin volatility (std=0.231) — stable, predictable profit. | Large sample (1845 orders) — statistically reliable."

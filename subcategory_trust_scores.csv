@@ -1,0 +1,18 @@
+Sub-Category,Overall_Confidence,Reasons
+Accessories,High,"Low margin volatility (std=0.161) — stable, predictable profit. | Large sample (773 orders) — statistically reliable."
+Appliances,Medium,High margin volatility (std=0.982) — profit swings significantly. | Moderate sample (466 orders) — reasonably reliable.
+Art,High,"Low margin volatility (std=0.107) — stable, predictable profit. | Large sample (796 orders) — statistically reliable."
+Binders,Medium,High margin volatility (std=0.773) — profit swings significantly. | Large sample (1522 orders) — statistically reliable.
+Bookcases,Medium,High margin volatility (std=0.469) — profit swings significantly. | Moderate sample (228 orders) — reasonably reliable.
+Chairs,High,"Low margin volatility (std=0.154) — stable, predictable profit. | Large sample (616 orders) — statistically reliable."
+Copiers,Medium,"Low margin volatility (std=0.121) — stable, predictable profit. | Small sample (68 orders) — less statistically reliable."
+Envelopes,High,"Low margin volatility (std=0.065) — stable, predictable profit. | Moderate sample (254 orders) — reasonably reliable."
+Fasteners,High,"Low margin volatility (std=0.192) — stable, predictable profit. | Moderate sample (217 orders) — reasonably reliable."
+Furnishings,High,Moderate margin volatility (std=0.377) — some fluctuation. | Large sample (956 orders) — statistically reliable.
+Labels,High,"Low margin volatility (std=0.064) — stable, predictable profit. | Moderate sample (364 orders) — reasonably reliable."
+Machines,Low,High margin volatility (std=0.558) — profit swings significantly. | Small sample (115 orders) — less statistically reliable.
+Paper,High,"Low margin volatility (std=0.065) — stable, predictable profit. | Large sample (1368 orders) — statistically reliable."
+Phones,High,"Low margin volatility (std=0.183) — stable, predictable profit. | Large sample (889 orders) — statistically reliable."
+Storage,High,"Low margin volatility (std=0.163) — stable, predictable profit. | Large sample (845 orders) — statistically reliable."
+Supplies,High,"Low margin volatility (std=0.180) — stable, predictable profit. | Moderate sample (190 orders) — reasonably reliable."
+Tables,High,"Low margin volatility (std=0.277) — stable, predictable profit. | Moderate sample (319 orders) — reasonably reliable."

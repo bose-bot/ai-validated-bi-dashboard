@@ -1,0 +1,4 @@
+Category,AI_Claim_Summary,Trust_Gap_Verdict,Actual_Data_Reason
+Furniture,Lower-margin category; needs cost optimization to improve profitability.,High,Moderate margin volatility (std=0.345) — some fluctuation. | Large sample (2119 orders) — statistically reliable.
+Office Supplies,AI stated: 'confident' this category will drive continued growth.,Medium,High margin volatility (std=0.548) — profit swings significantly. | Large sample (6022 orders) — statistically reliable.
+Technology,AI stated: needs 'careful management' due to volatility concerns.,High,"Low margin volatility (std=0.231) — stable, predictable profit. | Large sample (1845 orders) — statistically reliable."
